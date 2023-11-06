@@ -1,5 +1,5 @@
-import main_window
+import MainWindow
 
 
-main_window = main_window.MainWindow()
+main_window = MainWindow.MainWindow()
 main_window.mainloop()
