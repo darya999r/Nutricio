@@ -1,4 +1,5 @@
 from tkinter import *
+# import analises_window
 # from tkinter import ttk
 import commands
  
@@ -28,7 +29,7 @@ class Window(Tk):
         
 
         analyses_menu = Menu()
-        analyses_menu.add_command(label="Посмотреть данные по анализу", command=commands.clicked_analisis_data)
+        analyses_menu.add_command(label="Анализы и исследования", command=commands.clicked_analisis_data)
         analyses_menu.add_separator()
         analyses_menu.add_command(label="Добавить результаты анализа в карту", command=commands.clicked_adding_results_analises)
 

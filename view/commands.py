@@ -2,6 +2,8 @@ from tkinter import *
 # from tkinter import messagebox
 # import Window
 
+
+
 def clicked_search_current_card():
     # window_search_current_card = Tk()
     # window_search_current_card.title("NUTRICIO Поиск в текущих картах")

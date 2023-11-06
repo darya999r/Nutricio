@@ -1,7 +1,8 @@
 from tkinter import *
 from tkinter import ttk
-import Window
 from tkinter.messagebox import showinfo
+import Window
+
 
 class MainWindow(Window.Window):
     def __init__(self):
@@ -49,8 +50,3 @@ class MainWindow(Window.Window):
             btn.pack()
         
         tree.bind("<<TreeviewSelect>>", item_selected)
-
-
-
- 
-
