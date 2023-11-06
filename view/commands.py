@@ -1,10 +1,6 @@
 from tkinter import *
 
 
-def clicked_search_current_card():
-    lbl = Label(text="Перешли в поиск текущей карты", font=("Arial Bold", 10))  
-    lbl.pack()
-
 def clicked_search_archive_card():
     lbl = Label(text="Перешли в поиск карты в архиве", font=("Arial Bold", 10))  
     lbl.pack()

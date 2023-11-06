@@ -16,8 +16,6 @@ class MainWindow(Tk):
         main_menu = Menu()
 
         cardindex_menu = Menu()
-        cardindex_menu.add_command(label="Карты текущих пациентов", command=commands.clicked_search_current_card)
-        cardindex_menu.add_separator()
         cardindex_menu.add_command(label="Создать новую карту", command=commands.clicked_new_card)
         cardindex_menu.add_separator()
         cardindex_menu.add_command(label="Поиск карты в архиве", command=commands.clicked_search_archive_card)
