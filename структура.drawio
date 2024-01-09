@@ -302,7 +302,7 @@
                         <mxRectangle x="780" y="100" width="180" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="Dqku1uwKSIW6bDZqs-QQ-3" value="ФИО&lt;br&gt;возраст&lt;br&gt;пол" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Dqku1uwKSIW6bDZqs-QQ-2" vertex="1">
+                <mxCell id="Dqku1uwKSIW6bDZqs-QQ-3" value="ФИО&lt;br&gt;дата рождения&lt;br&gt;пол" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Dqku1uwKSIW6bDZqs-QQ-2" vertex="1">
                     <mxGeometry y="30" width="250" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="Dqku1uwKSIW6bDZqs-QQ-4" value="номер телефона" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Dqku1uwKSIW6bDZqs-QQ-2" vertex="1">
@@ -316,7 +316,7 @@
                         <mxRectangle x="780" y="245" width="210" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="Dqku1uwKSIW6bDZqs-QQ-8" value="вес&lt;br&gt;рост&lt;br&gt;колебания веса с 16-летнего возраста&lt;br&gt;измерения (таблица) =&amp;gt; дата, вес, ОГ, ОТ, ОБ, цели, дополнения&lt;br&gt;? жировая масса (формула) =&amp;gt; процент жира в организме&lt;br&gt;? мышечная масса (формула) =&amp;gt; процент мышечной массы" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Dqku1uwKSIW6bDZqs-QQ-7" vertex="1">
+                <mxCell id="Dqku1uwKSIW6bDZqs-QQ-8" value="вес&lt;br&gt;рост&lt;br&gt;колебания веса с 16-летнего возраста&lt;br&gt;измерения (таблица) =&amp;gt; дата, вес, ОГ, ОТ, ОБ, дополнения&lt;br&gt;? жировая масса (формула) =&amp;gt; процент жира в организме&lt;br&gt;? мышечная масса (формула) =&amp;gt; процент мышечной массы" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Dqku1uwKSIW6bDZqs-QQ-7" vertex="1">
                     <mxGeometry y="30" width="390" height="120" as="geometry"/>
                 </mxCell>
                 <mxCell id="Dqku1uwKSIW6bDZqs-QQ-17" value="Медистория и наследственные заболевания" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -324,7 +324,7 @@
                         <mxRectangle x="1240" y="310" width="290" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="Dqku1uwKSIW6bDZqs-QQ-18" value="история родов&lt;br&gt;история наследственных заболеваний&lt;br&gt;вирусные, грибковые заболевания&lt;br&gt;лекарственные, медицинские препараты, схема приёма&lt;br&gt;БАДы и витамины, схема приёма&lt;br&gt;КОК&lt;br&gt;последний приём антибиотиков&lt;br&gt;наличие аллергических реакций на лекарства, пищевые или бытовые продукты&amp;nbsp;&lt;br&gt;работа ЖКТ (запоры, диарея, тяжесть, вздутие, газы)&lt;br&gt;кожные покровы (высыпания, акне, паппиломы, красные точки, пятна, шелушения)&lt;br&gt;состояния волос, ногтей&lt;br&gt;&lt;br&gt;симптомы (файл с опросом) =&amp;gt; таблица: 1.симптомы, 2.ответ (да/нет), 3.гипотеза" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Dqku1uwKSIW6bDZqs-QQ-17" vertex="1">
+                <mxCell id="Dqku1uwKSIW6bDZqs-QQ-18" value="история родов&lt;br&gt;история наследственных заболеваний&lt;br&gt;вирусные, грибковые заболевания&lt;br&gt;лекарственные, медицинские препараты, схема приёма&lt;br&gt;БАДы и витамины, схема приёма&lt;br&gt;КОК&lt;br&gt;последний приём антибиотиков&lt;br&gt;наличие аллергических реакций на лекарства, пищевые или бытовые продукты&amp;nbsp;&lt;br&gt;работа ЖКТ (запоры, диарея, тяжесть, вздутие, газы)&lt;br&gt;кожные покровы (высыпания, акне, паппиломы, красные точки, пятна, шелушения)&lt;br&gt;состояния волос, ногтей&lt;br&gt;&lt;br&gt;?симптомы (файл с опросом) =&amp;gt; таблица: 1.симптомы, 2.ответ (да/нет), 3.гипотеза" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Dqku1uwKSIW6bDZqs-QQ-17" vertex="1">
                     <mxGeometry y="30" width="520" height="220" as="geometry"/>
                 </mxCell>
                 <mxCell id="Dqku1uwKSIW6bDZqs-QQ-22" value="Стиль жизни и физ нагрузка" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -336,12 +336,12 @@
                     <mxGeometry y="30" width="520" height="150" as="geometry"/>
                 </mxCell>
                 <mxCell id="Dqku1uwKSIW6bDZqs-QQ-27" value="Анализы и другие исследования" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="1431" y="713" width="310" height="210" as="geometry">
+                    <mxGeometry x="1410" y="727" width="310" height="100" as="geometry">
                         <mxRectangle x="1190" y="670" width="220" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="Dqku1uwKSIW6bDZqs-QQ-28" value="когда последний раз сдавали анализы&lt;br&gt;результаты/назначения врача&lt;br&gt;общие анализы =&amp;gt; кровь, моча, кал&lt;br&gt;анализ на гормоны&lt;br&gt;УЗИ&lt;br&gt;&lt;br&gt;ЗАГРУЗИТЬ ФАЙЛ (расширение doc, pdf, jpeg)&lt;br&gt;&lt;br&gt;Анализы (табл) =&amp;gt; 1.показатели, 2.оптимум, 3. значение, 4.замечания." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Dqku1uwKSIW6bDZqs-QQ-27" vertex="1">
-                    <mxGeometry y="30" width="310" height="180" as="geometry"/>
+                <mxCell id="Dqku1uwKSIW6bDZqs-QQ-28" value="Анализы (табл) =&amp;gt; 1.показатели, 2.оптимум, 3. значение, 4.замечания.&lt;br&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Dqku1uwKSIW6bDZqs-QQ-27" vertex="1">
+                    <mxGeometry y="30" width="310" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="Dqku1uwKSIW6bDZqs-QQ-32" value="Дополнения и цели" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="1200" y="757" width="180" height="100" as="geometry">
@@ -362,7 +362,7 @@
                 <mxCell id="Dqku1uwKSIW6bDZqs-QQ-42" value="Промежуточный/конечный результат" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-80" y="760" width="340" height="180" as="geometry"/>
                 </mxCell>
-                <mxCell id="Dqku1uwKSIW6bDZqs-QQ-43" value="история промежуточных результатов (дата, результат)&lt;br&gt;добавить промежуточный результат&lt;br&gt;&lt;br&gt;дата окончания терапии&lt;br&gt;конечный результат&lt;br&gt;выполнение поставленной цели дополнительные комментарии&lt;br&gt;&lt;br&gt;СОХРАНИТЬ ВСЮ ИСТОРИЮ В ФАЙЛ (расширение pdf)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Dqku1uwKSIW6bDZqs-QQ-42" vertex="1">
+                <mxCell id="Dqku1uwKSIW6bDZqs-QQ-43" value="история промежуточных результатов (дата, результат)&lt;br&gt;добавить промежуточный результат&lt;br&gt;&lt;br&gt;дата окончания терапии&lt;br&gt;конечный результат&lt;br&gt;дополнительные комментарии&lt;br&gt;&lt;br&gt;СОХРАНИТЬ ВСЮ ИСТОРИЮ В ФАЙЛ (расширение pdf)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Dqku1uwKSIW6bDZqs-QQ-42" vertex="1">
                     <mxGeometry y="30" width="340" height="150" as="geometry"/>
                 </mxCell>
                 <mxCell id="Dqku1uwKSIW6bDZqs-QQ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Dqku1uwKSIW6bDZqs-QQ-47" target="sZ0HXl8LnSBLZn5xtde6-62" edge="1">
@@ -375,7 +375,7 @@
                     <mxGeometry x="592.1899999999999" y="212.5" width="122.19" height="25" as="geometry"/>
                 </mxCell>
                 <mxCell id="Dqku1uwKSIW6bDZqs-QQ-50" value="Краткий анамнез" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" collapsed="1">
-                    <mxGeometry x="470" y="148.75" width="130" height="30" as="geometry">
+                    <mxGeometry x="456.56" y="157.5" width="130" height="30" as="geometry">
                         <mxRectangle x="470" y="148.75" width="120" height="60" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
